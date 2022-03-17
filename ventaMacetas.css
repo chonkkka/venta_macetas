@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #272c34;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #8596c5;
+}
+
+.container {
+    margin: 50px;
+    padding: 20px;
+}
+
+.macetas-container {
+  display: flex;
+  justify-content: center;
+}
+
+.carrito-container {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+    color: #f06372;
+    font-size: 40px;
+}
+
+h2 {
+    color: #ff8867;
+    font-size: 25px;
+}
+
+ul {
+    margin: 30px;
+}
+
+li{
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  max-width: 50vw;
+  margin: 50px;
+}
+
+button {
+    background-color: #5a617f;
+    border: none;
+    padding: 10px;
+    color: #f06372;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px 0;
+    width: 200px;
+}
+
+button:hover {
+    box-shadow: 5px 5px 5px #191d2680;
+}
+
+#btnCarrito {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+#compra {
+    margin: 20px;
+}
+
+.imgMacetas{
+  width: 200px;
+}
+

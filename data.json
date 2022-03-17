@@ -1,0 +1,8 @@
+[
+    { "id": 1, "nombre": "maceta redonda", "precio": 250 },
+    { "id": 2, "nombre": "maceta cuadrada", "precio": 250 },
+    { "id": 3, "nombre": "maceta hexagonal", "precio": 250 },
+    { "id": 4, "nombre": "maceta buda", "precio": 200 },
+    { "id": 5, "nombre": "maceta Grande", "precio": 400 },
+    { "id": 6, "nombre": "maceta pocillo", "precio": 150 }
+]
